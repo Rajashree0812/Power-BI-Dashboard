@@ -1,0 +1,83 @@
+What is Power BI?
+1. Power BI is a Business Intelligence (BI) and Data Visualization tool developed by Microsoft. 
+2. It helps users collect data from multiple sources, transform it into meaningful insights, and create interactive dashboards and reports for better decision-making.
+
+Purpose of Power BI:
+1. Convert raw data into meaningful visual reports.
+2. Help organizations make data-driven decisions.
+3. Monitor business performance in real time.
+4. Identify trends, patterns, and opportunities.
+5. Share reports and dashboards across teams.
+
+Importance of Data Visualization:
+1. Data visualization is the graphical representation of data using charts, graphs, maps, and dashboards. 
+2. It helps transform complex data into an easy-to-understand visual format, enabling users to analyze information quickly and make better decisions
+
+Some Common Visualizations:
+1. Bar Chart
+2. Column Chart
+3. Line Chart
+4. Pie Chart
+5. Donut Chart
+6. Area Chart
+7. Scatter Plot
+8. Table
+9. Matrix
+10. Funnel Chart
+11 .Gauge Chart
+12. KPI Card
+13. Treemap
+14. Map
+15. Waterfall Chart
+
+Data Sources Supported:
+1. Microsoft Excel
+2. CSV Files
+3. SQL Server
+4. MySQL
+5. Oracle Database
+6. PostgreSQL
+7. SharePoint
+8. Azure Services
+9. Google Analytics
+10. Web APIs
+11. Salesforce
+12. Many other cloud and on-premises databases
+
+Where is Power BI Used?
+1. Industries
+2. Banking and Finance
+3. Healthcare
+4. Retail and E-commerce
+5. Manufacturing
+6. Education
+7. Human Resources
+8. Marketing and Sales
+9. Logistics and Supply Chain
+10. IT and Software Companies
+11. Departments
+12. Sales Analysis
+13. Marketing Performance
+14. Finance Reporting
+15. HR Analytics
+16. Customer Service
+
+Key Components of Power BI:
+1. Power BI Desktop – Used to create reports and dashboards.
+2. Power BI Service – Cloud platform for publishing and sharing reports.
+3. Power BI Mobile App – View dashboards on smartphones and tablets.
+4. Power BI Gateway – Connects on-premises data sources to the cloud.
+5. Power BI Report Server – Hosts reports on a company's own servers.
+
+Advantages of Power BI:
+1. Easy-to-use drag-and-drop interface.
+2. Connects to multiple data sources (Excel, SQL Server, MySQL, Oracle, SharePoint, Azure, Google Analytics, etc.).
+3. Interactive and visually appealing dashboards.
+4. Real-time data updates.
+5. Fast data analysis.
+6. AI-powered insights and forecasting.
+7. Cloud-based report sharing.
+8. Strong security features.
+9. Integrates well with Microsoft Office (Excel, Teams, Azure).
+10. Cost-effective compared to many other BI tools.
+
